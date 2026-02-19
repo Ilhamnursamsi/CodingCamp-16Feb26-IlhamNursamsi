@@ -23,11 +23,6 @@ Tech Stack
 - CSS3 (Flexbox, Gradient, Animation)
 - Vanilla JavaScript (DOM Manipulation)
 
-Live Demo
-
-- https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
-- Replace the link above with your actual GitHub Pages URL.
-
 How It Works
 
 - Enter a task and select a date.
